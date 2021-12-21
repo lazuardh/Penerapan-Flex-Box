@@ -17,7 +17,7 @@ class Footer extends Component {
                 <View style={{flex: 1, backgroundColor: '#FBF46D'}}>
         
                 </View>
-                <View style={{flex: 1, backgroundColor: 'F5F5F5'}}>
+                <View style={{flex: 1, backgroundColor: '#F5F5F5'}}>
         
                 </View>
             </View>
